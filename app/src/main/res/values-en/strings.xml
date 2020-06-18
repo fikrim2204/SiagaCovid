@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Standby Covid</string>
+    <string name="data_covid_19_provinsi_sumatra_barat"> Data Covid-19 West Sumatra Province </string>
+    <string name="date"> Date: </string>
+    <string name="date2"> Date / Time: </string>
+    <string name="odp"> Active ODP </string>
+    <string name="monitoring_man"> Monitoring Person </string>
+    <string name="patient_in_surveillance"> Patient under surveillance</string>
+    <string name="pdp"> Total PDP </string>
+    <string name="positive"> Positive </string>
+    <string name="died"> died </string>
+    <string name="positive_covid_19"> Positive Covid-19 </string>
+    <string name="recover"> Recover </string>
+    <string name="latest_update"> Latest Updates </string>
+    <string name="history"> History </string>
+    <string name="odp_active"> Active ODP: </string>
+    <string name="total_pdp"> Total PDP: </string>
+    <string name="positive2"> Positive: </string>
+    <string name="heal2"> Heal: </string>
+    <string name="died2"> Died: </string>
+    <string name="cara_pencegahan_covid_19"> How to prevent Covid-19 </string>
+    <string name="more"> More… </string>
+    <string name="news"> News </string>
+    <string name="use_masker_saat_terkena_breathing_interference"> Use a mask when exposed to breathing problems </string>
+    <string name="pdp_table"> PDP </string>
+    <string name="odp_table"> ODP </string>
+    <string name="date_table"> Date </string>
+    <string name="select_hospital">Select Hospital</string>
+    <string name="select_hotline">Select Hotline</string>
+
+    <!-- TODO: Remove or change this placeholder text-->
+    <string name="hello_blank_fragment"> Hello blank fragment </string>
+    <string name="districts"> Regency </string>
+    <string name="menu_1"> Language </string>
+    <string name="menu_2"> Exit </string>
+    <string name="chart"> Graph </string>
+    <string name="hotline"> Hotline </string>
+    <string name="not_connected"> 404 Check your Internet connection </string>
+    <string name="author"> Author: </string>
+    <string name="hospital">Rumah Sakit</string>
+
+    <string-array name="kabupaten_display_name">
+        <item> Bukittinggi </item>
+        <item> Padang Panjang </item>
+        <item> Payakumbuh </item>
+        <item> Sijunjung </item>
+        <item> Flat Land </item>
+        <item> City of Solok </item>
+        <item> Solok Regency </item>
+        <item> Sawahlunto </item>
+        <item> Pariaman </item>
+        <item> Agam </item>
+        <item> Mentawai </item>
+        <item> Padang </item>
+        <item> Padang Pariaman </item>
+        <item> Pasaman Barat </item>
+        <item> Pasaman </item>
+        <item> Fifty Cities </item>
+        <item> Dharmasraya </item>
+        <item> Pesisir Selatan </item>
+        <item> Solok Selatan </item>
+    </string-array>
+
+    <string-array name="regency_name">
+        <item> bukittinggi </item>
+        <item> padang_ Length </item>
+        <item> payakumbuh </item>
+        <item> sijunjung </item>
+        <item> tanah_datar </item>
+        <item> kota_solok </item>
+        <item> kabupaten_solok </item>
+        <item> sawahlunto </item>
+        <item> pariaman </item>
+        <item> religious </item>
+        <item> mentawai </item>
+        <item> padang </item>
+        <item> padang_pariaman </item>
+        <item> pasaman_barat </item>
+        <item> pasaman </item>
+        <item> fifty_kota </item>
+        <item> dharmasraya </item>
+        <item> coastal_selatan </item>
+        <item> solok_selatan </item>
+    </string-array>
+</resources>

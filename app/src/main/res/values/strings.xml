@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Siaga Covid</string>
+    <string name="data_covid_19_provinsi_sumatra_barat">Data Covid-19 Provinsi Sumatra Barat</string>
+    <string name="date">Tanggal :</string>
+    <string name="date2">Tanggal/Jam :</string>
+    <string name="odp">ODP Aktif</string>
+    <string name="monitoring_man">Orang dalam pemantauan</string>
+    <string name="patient_in_surveillance">Pasien dalam pengawasan</string>
+    <string name="pdp">Total PDP</string>
+    <string name="positive">Positif</string>
+    <string name="died">Meninggal</string>
+    <string name="positive_covid_19">Positif Covid-19</string>
+    <string name="recover">Sembuh</string>
+    <string name="latest_update">Update Terbaru</string>
+    <string name="history">History</string>
+    <string name="odp_active">ODP Aktif :</string>
+    <string name="total_pdp">Total PDP :</string>
+    <string name="positive2">Positif :</string>
+    <string name="heal2">Sembuh :</string>
+    <string name="died2">Meninggal :</string>
+    <string name="cara_pencegahan_covid_19">Cara pencegahan Covid-19</string>
+    <string name="more">Selengkapnya…</string>
+    <string name="news">Berita</string>
+    <string name="use_masker_saat_terkena_breathing_interference">Gunakan masker saat terkena gangguan pernafasan</string>
+    <string name="pdp_table">PDP</string>
+    <string name="odp_table">ODP</string>
+    <string name="date_table">Tanggal</string>
+    <string name="select_hospital">Pilih Rumah Sakit</string>
+    <string name="select_hotline">Pilih No Penting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="districts">Kabupaten</string>
+    <string name="menu_1">Language</string>
+    <string name="menu_2">Exit</string>
+    <string name="chart">Grafik</string>
+    <string name="hotline">Hotline</string>
+    <string name="not_connected">404 Periksa koneksi Internet anda</string>
+    <string name="author">Penulis :</string>
+    <string name="splash_screen" translatable="false">splash_screen</string>
+    <string name="hospital">Rumah Sakit</string>
+    <string name="spash_logo" translatable="false">SC</string>
+
+    <string-array name="kabupaten_display_name">
+        <item>Bukittinggi</item>
+        <item>Padang Panjang</item>
+        <item>Payakumbuh</item>
+        <item>Sijunjung</item>
+        <item>Tanah Datar</item>
+        <item>Kota Solok</item>
+        <item>Kabupaten Solok</item>
+        <item>Sawahlunto</item>
+        <item>Pariaman</item>
+        <item>Agam</item>
+        <item>Mentawai</item>
+        <item>Padang</item>
+        <item>Padang Pariaman</item>
+        <item>Pasaman Barat</item>
+        <item>Pasaman</item>
+        <item>Limapuluh Kota</item>
+        <item>Dharmasraya</item>
+        <item>Pesisir Selatan</item>
+        <item>Solok Selatan</item>
+    </string-array>
+
+    <string-array name="regency_name">
+        <item>bukittinggi</item>
+        <item>padang_panjang</item>
+        <item>payakumbuh</item>
+        <item>sijunjung</item>
+        <item>tanah_datar</item>
+        <item>kota_solok</item>
+        <item>kabupaten_solok</item>
+        <item>sawahlunto</item>
+        <item>pariaman</item>
+        <item>agam</item>
+        <item>mentawai</item>
+        <item>padang</item>
+        <item>padang_pariaman</item>
+        <item>pasaman_barat</item>
+        <item>pasaman</item>
+        <item>limapuluh_kota</item>
+        <item>dharmasraya</item>
+        <item>pesisir_selatan</item>
+        <item>solok_selatan</item>
+    </string-array>
+
+    <string-array name="hospital">
+        <item>RS. M. Jamil</item>
+        <item>RS. Unand</item>
+    </string-array>
+</resources>

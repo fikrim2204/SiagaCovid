@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938711310452",
+    "firebase_url": "https://siagacovid-21107.firebaseio.com",
+    "project_id": "siagacovid-21107",
+    "storage_bucket": "siagacovid-21107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938711310452:android:e2392a02678595c835b121",
+        "android_client_info": {
+          "package_name": "rpl1pnp.fikri.siagacovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938711310452-kolja15a4ec3bas2h57ljqbgvsi878nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rpl1pnp.fikri.siagacovid",
+            "certificate_hash": "21065d14cfd44f0c6f0d0a68c21557e1395a3d2d"
+          }
+        },
+        {
+          "client_id": "938711310452-3ijdovofn65rmaqg6861bir1ova8k8f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKxVpQTy49tn2ep6kfry147AbGFl2L24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938711310452-3ijdovofn65rmaqg6861bir1ova8k8f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
